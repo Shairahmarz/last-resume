@@ -1,0 +1,199 @@
+body {
+	background: white;
+}
+
+.showcase {
+	margin-bottom:10px ;
+	padding:250px ;
+	background-image: url(../images/header.jpg);
+	background-repeat: no repeat;
+	background-size: cover;
+
+}
+
+.main-article {
+	margin-bottom: 20px;
+	margin-left: 5px;
+	margin-right: 5px;
+	display:grid;
+	grid-gap: 20px;
+	grid-template-columns: 1fr 2fr;
+	background: url(../images/gray.jpg);
+	padding: 10px;
+
+}
+
+.profile {
+	padding: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+h1 {
+	font-family: Century Gothic;
+	font-size: 30px;
+	color: black;
+	padding: 10px;
+	background:  white;
+}
+
+h2 {
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: black;
+}
+
+h3 {
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: black;
+}
+
+h4 {
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: black;
+}
+
+h5 {
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: black;
+}
+
+
+.job {
+	padding: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+h1 {
+	font-family: Century Gothic;
+	font-size: 30px;
+	color: white;
+	padding: 10px;
+	background:  black;
+}
+
+h2 {
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: black;
+}
+
+h3 {
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: black;
+}
+
+h4 {
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: black;
+}
+
+h5 {
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: black;
+}
+
+.educational {
+	padding: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+h1 {
+	font-family: Century Gothic;
+	font-size: 30px;
+	color: white;
+	padding: 10px;
+	background:  black;
+}
+
+h2 {
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: black;
+}
+
+h3 {
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: black;
+}
+
+h4 {
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: black;
+}
+
+.skills {
+	padding: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+h1 {
+	font-family: Century Gothic;
+	font-size: 30px;
+	color: white;
+	padding: 10px;
+	background:  black;
+}
+
+ul {
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: black;
+}
+.awards {
+	padding: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+h1 {
+	font-family: Century Gothic;
+	font-size: 30px;
+	color: white;
+	padding: 10px;
+	background:  black;
+}
+
+h2 {
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: black;
+}
+
+h3 {
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: black;
+}
+
+h4 {
+	font-family: Century Gothic;
+	font-size: 20px;
+	color: black;
+}
+
+.footer {
+	margin-bottom: 20px;
+	margin-left: 5px;
+	margin-right: 5px;
+	background: url(../images/orange.jpg);
+	padding: 10px;
+
+}
+
+p {
+	font-family: Tahoma;
+	font-size: 15px;
+	color: black;
+	text-align: center;
